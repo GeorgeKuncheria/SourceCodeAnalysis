@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+
+
+
+#Ignoring ChromaDB database files
+db/*
+research/db/*
+research/test_repo/*
+
+
+
+
 # Distribution / packaging
 .Python
 build/
